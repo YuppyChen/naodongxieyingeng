@@ -1,0 +1,5 @@
+{
+  "name": "Punny Illustrator",
+  "description": "A creative Chinese homophone pun generator and illustrator using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
